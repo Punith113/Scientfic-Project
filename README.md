@@ -15,4 +15,4 @@
 -Rakesh
 
 ## License
-To be determined.
+Apache license 2.0	apache-2.0
