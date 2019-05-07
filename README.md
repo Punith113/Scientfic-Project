@@ -1,4 +1,4 @@
-# Automated_Testing
+# Automated_Testing and Simulation of ROBOT
 - Repository for Updated Marvin With Omni_Directional and Moveit and SLAM Navigation Package 
 - Teleoperating,Testing Robot,SLAM
 
@@ -6,24 +6,15 @@
 - Build the docker container and start it with the docker-compose yaml
 - Currently docker is to be composed
 
-## External dependencies
-- 
-- 
-- 
-
-## Build dependencies
-- Link to Dockerfile is sufficient
-- If there is no Dockerfile, list the dependencies here
-
 ## Run dependencies
 - What other stuff needs to run on the system
 - E.g. in the object recognition repository list the kinect2 node
 
 ## Authors
-- Benjamin Stähle - Main Contributor (docker) - @staehlbe
-- Malte Liam Jakob - Main Contributor (docker) - @mj-183041
-- Rakesh Allampally - Main Contributor - @ra-171967
 - Punith Raju - Main Contributor - @pr-171989 
+- Benjamin Stähle - Main Contributor (docker) - @staehlbe
+- Rakesh Allampally 
+
 
 ## License
 To be determined.
