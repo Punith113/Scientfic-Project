@@ -12,9 +12,6 @@
 
 ## Authors
 - Punith Raju - Main Contributor - @pr-171989 
-- Benjamin Stähle - Main Contributor (docker) - @staehlbe
-- Rakesh Allampally 
-
 
 ## License
 To be determined.
