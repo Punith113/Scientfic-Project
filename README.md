@@ -15,6 +15,3 @@
 
 ## License
 To be determined.
-
-## Problems and solutions
-[Problems and solutions](https://fbe-gitlab.hs-weingarten.de/prj-iki-robotics/orga/robolab-wiki/wikis/Problems-And-Solutions)
