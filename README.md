@@ -1,4 +1,4 @@
-# Automated_Testing and Simulation of ROBOT
+# Automated_Testing and Simulation of Autonomous Mobile ROBOT
 - Repository for Updated Marvin With Omni_Directional and Moveit and SLAM Navigation Package 
 - Teleoperating,Testing Robot,SLAM
 
